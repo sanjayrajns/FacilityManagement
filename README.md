@@ -46,8 +46,8 @@ State Management: React Hooks (useState, useEffect)
 
 
 1. Clone the repository:
-`  git clone https://github.com/your-username/maintenance-ops-hub.git
-   cd maintenance-ops-hub `
+`  git clone https://github.com/sanjayrajns/FacilityManagement.git`
+`   cd FacilityManagement.`
 
 2.Install NPM packages:
 `npm install`
